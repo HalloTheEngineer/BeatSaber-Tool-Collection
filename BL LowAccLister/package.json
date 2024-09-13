@@ -1,0 +1,11 @@
+{
+  "name": "bs-topplaylister",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "run": "node index.cjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

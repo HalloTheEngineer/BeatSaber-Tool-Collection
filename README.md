@@ -6,8 +6,6 @@ Playing ranked BS may be tedious when you don't know what to play.
 
 This is a small collection of tools to help creating playlists using the BeatLeader/ScoreSaber API.
 
----
-
 ## Getting started
 
 1. Clone/[Download](https://github.com/HalloTheEngineer/BeatSaber-Tool-Collection/archive/refs/heads/main.zip) this repository
@@ -19,7 +17,7 @@ This is a small collection of tools to help creating playlists using the BeatLea
     or
 
     - Execute "node index.cjs" via the command prompt
----
+
 ## Tools
 
 ### BeatLeader TopPlay Lister

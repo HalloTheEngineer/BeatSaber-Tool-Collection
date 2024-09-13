@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Playing ranked BS may be tedious when you don't know what to play.
+Playing BeatSaber-Ranked may be tedious when you don't know what to play.
 
 This is a small collection of tools to help creating playlists using the BeatLeader/ScoreSaber API.
 
